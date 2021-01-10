@@ -15,13 +15,15 @@ He trabajado como asesor nutricional en deporte de élite con equipos y jugadore
 
 Por último me encanta dar charlas y talleres sobre nutrición deportiva en categorías de formación y escolar o participar en eventos formativos para entrenadores de baloncesto, alumnado de estudios superiores y otros colectivos profesionales.
 
-###__CONTACTO__
+__CONTACTO__
 
 Ignacio Escribano Ott
+
 Navarra, España
+
 ignacio.escribano.ott@gmail.com
 
-![Foto](C:\Users\escri\Desktop\escrinachweb\images\Ee479xFXsAEQV9z.jpg)
+![Foto](\Users\escri\Desktop\escrinachweb\images\Ee479xFXsAEQV9z.jpg)
 
 
 
