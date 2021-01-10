@@ -1,9 +1,9 @@
 ---
-date: "2021"
+date: "2021-01-10"
 tags:
 - hugo
 - themes
-title: PRUEBA EDITADO
+title: Prueba editado
 ---
 
 ## Introduction
