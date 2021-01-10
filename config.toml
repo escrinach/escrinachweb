@@ -24,6 +24,9 @@ paginate = 5
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/igeso"
+  [[params.social]]
+    name = "email"
+    url ="mailto:ignacio.escribano.ott@gmail.com"
     
 
 
