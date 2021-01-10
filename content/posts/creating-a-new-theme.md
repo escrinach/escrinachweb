@@ -23,8 +23,7 @@ Navarra, España
 
 ignacio.escribano.ott@gmail.com
 
-<img src="https://pbs.twimg.com/profile_images/1347498058679013377/jQMZU_wT_400x400.jpg" alt="JuveR" width="300px">
 
-
+![Texto alternativo](https://pbs.twimg.com/profile_images/1347498058679013377/jQMZU_wT_400x400.jpg)
 
 
