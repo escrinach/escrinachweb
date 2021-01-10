@@ -15,9 +15,10 @@ paginate = 5
 
 [params]
   author = "Ignacio Escribano Ott"
-  description = "Nutricionista y entrenador de baloncesto. Alto Rendimiento Deportivo. Investigación en métodos de recuperación y educación nutricional.ignacio.escribano.ott@gmail.com"
+  description = "Nutricionista y entrenador de baloncesto. Alto Rendimiento Deportivo. Investigación en métodos de recuperación y educación nutricional."
   avatar = "https://pbs.twimg.com/profile_images/1347498058679013377/jQMZU_wT_400x400.jpg"
   menu_item_separator = " - "
+  email="ignacio.escribano.ott@gmail.com"
   [[params.social]]
     name = "researchgate"
     url = "https://www.researchgate.net/profile/Ignacio_Escribano-Ott"
@@ -26,7 +27,7 @@ paginate = 5
     url = "https://www.linkedin.com/in/igeso"
   [[params.social]]
     name = "email"
-    url ="mailto:ignacio.escribano.ott@gmail.com"
+    url = "ignacio.escribano.ott@gmail.com"
     
 
 
