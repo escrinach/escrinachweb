@@ -8,12 +8,18 @@ title: Sobre mi
 
 ## Sobre mi
 
-Soy Graduado en Nutrición Humana y Dietética (Universidad del País Vasco), Máster en Alto Rendimiento Deportivo (Comité Olímpico Español) y Máster en Investigación en Ciencias de la Actividad Física y del Deporte (Universidad del País Vasco). Mis principales intereses son el rendimiento físico y la fatiga, los métodos de recuperación nutricionales y la educación nutricional. Además, soy entrenador Superior de Baloncesto (Federación Española de Baloncesto) y es en el baloncesto donde trato de poner en práctica mi conocimiento y contribuir con mi [actividad investigadora](https://www.researchgate.net/profile/Ignacio_Escribano-Ott). 
+Soy Graduado en Nutrición Humana y Dietética por la [Universidad del País Vasco](https://www.ehu.eus/es/web/farmazia-fakultatea), Máster en Alto Rendimiento Deportivo por el [Comité Olímpico Español](https://www.coe.es/2012/COEHOME2012.nsf/FHomeDemo?OpenForm)) y Máster en Investigación en Ciencias de la Actividad Física y del Deporte por la [Universidad del País Vasco](https://www.ehu.eus/es/web/master/master-actividad-fisica-deporte#:~:text=El%20M%C3%A1ster%20en%20Ciencias%20de,ocio%20o%20la%20educaci%C3%B3n%20f%C3%ADsica). Mis principales intereses son el rendimiento físico y la fatiga, los métodos de recuperación nutricionales y la educación nutricional. Además, soy entrenador Superior de Baloncesto (Federación Española de Baloncesto) y es en el baloncesto donde trato de poner en práctica mi conocimiento y contribuir con mi [actividad investigadora](https://www.researchgate.net/profile/Ignacio_Escribano-Ott). 
 
 
-He trabajado como asesor nutricional en deporte de élite con equipos y jugadores de baloncesto así como en diferentes ámbitos empresariales donde la nutrición juega un papel determinante, como son el sector farmacéutico (CINFA, Eggnovo) la industria alimentaria (Mondelez). Puede consultarse un desarrollo más extenso en mi perfil de [Linkedin](https://www.linkedin.com/in/igeso)
+He trabajado como asesor nutricional en deporte de élite con equipos y jugadores de baloncesto así como en diferentes ámbitos empresariales donde la nutrición juega un papel determinante, como son el sector farmacéutico (CINFA, Eggnovo) o la industria alimentaria (Mondelez). Puede consultarse un desarrollo más extenso en mi perfil de [Linkedin](https://www.linkedin.com/in/igeso)
 
-Por último me encanta dar charlas y talleres sobre nutrición deportiva en categorías de formación y escolar o participar en eventos formativos para entrenadores de baloncesto, alumnado de estudios superiores y otros colectivos profesionales.
+Participo de forma activa en la docencia realizando charlas y talleres sobre nutrición deportiva en categorías de formación y escolar o colaborando en eventos formativos para entrenadores de baloncesto, alumnado de estudios superiores y otros colectivos profesionales.
+
+Los diferentes tutores académicos y jefes responsables de mi actividad profesional, se han referido a mí como una persona que:
+
+> Ha destacado por su dedicación y compromiso, cumpliendo con los objetivos fijados por la empresa. (Patricia Elía Goñi, Directora de Personas de Laboratorios CINFA)
+> 
+> > Un profesional competente, altamente motivado, con una gran capacidad de trabajo. Su compromiso para trabajar y su calidad humana son atributos altamente deseables
 
 __CONTACTO__
 
