@@ -1,28 +1,28 @@
 baseURL = "https://escrinach.netlify.app/"
-title = "Your title"
+title = "IGNACIO ESCRIBANO OTT"
 theme = "hugo-theme-m10c"
 paginate = 5
 
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
+    identifier = "INICIO"
+    name = "INICIO"
     url = "/"
   [[menu.main]]
-    identifier = "tags"
+    identifier = "Tags"
     name = "Tags"
     url = "/tags/"
 
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+  author = "Ignacio Escribano Ott"
+  description = "Nutricionista y entrenador de baloncesto. Alto Rendimiento Deportivo. Investigación en métodos de recuperación y educación nutricional."
   menu_item_separator = " - "
   [[params.social]]
-    name = "github"
-    url = "https://github.com/gohugoio"
+    name = "researchgate"
+    url = "https://www.researchgate.net/profile/Ignacio_Escribano-Ott"
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/gohugoio"
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/igeso"
 
   # Brown theme
   #[params.style]
