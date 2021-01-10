@@ -1,9 +1,9 @@
 ---
-date: "2014-09-28"
+date: "2021"
 tags:
 - hugo
 - themes
-title: Creating a New Theme
+title: PRUEBA EDITADO
 ---
 
 ## Introduction
