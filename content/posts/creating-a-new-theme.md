@@ -17,9 +17,11 @@ Participo de forma activa en la docencia realizando charlas y talleres sobre nut
 
 Los diferentes tutores académicos y jefes responsables de mi actividad profesional, se han referido a mí como una persona que:
 
-> Ha destacado por su dedicación y compromiso, cumpliendo con los objetivos fijados por la empresa. (Patricia Elía Goñi, Directora de Personas de Laboratorios CINFA)
+> *Ha destacado por su dedicación y compromiso, cumpliendo con los objetivos fijados por la empresa.* (Patricia Elía Goñi, Directora de Personas de Laboratorios CINFA)
 > 
-> > Un profesional competente, altamente motivado, con una gran capacidad de trabajo. Su compromiso para trabajar y su calidad humana son atributos altamente deseables
+> > *Un profesional competente, altamente motivado, con una gran capacidad de trabajo. Su compromiso para trabajar y su calidad humana son atributos altamente deseables.* (Dr.Julio Calleja Gonzalez, Universiad del País Vasco )
+
+En mi actividad como entrenador de baloncesto, he sido entrenador tanto de equipos en edad de formación masculinos y femeninos, como de categorías senior nacionales. Actualmente, dirijo la [Selección Navarra de Baloncesto](https://www.fnbaloncesto.com/es/organigrama-%C3%A1rea-t%C3%A9cnica.html) en la categoría Cadete Masculina . 
 
 __CONTACTO__
 
