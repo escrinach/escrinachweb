@@ -31,22 +31,22 @@ EXPERIENCIA DEPORTIVA:
 
 >Temporada 2016-2017:
 >>Entrenador Principal Cadete Femenino Araski
->>Entrenador Ayudante Junior Femenino Araski
->>Tecnificador Cadete Masculino Navarra
+>>>Entrenador Ayudante Junior Femenino Araski
+>>>>Tecnificador Cadete Masculino Navarra
 
 >Temporada 2017-2018:
 >>Entrenador Principal Senior Masculino 1ª Nacional Valle de Egües
->>Entrenador Ayudante Selección Cadete Masculina Navarra
+>>>Entrenador Ayudante Selección Cadete Masculina Navarra
 
 >Temporada 2018-2019:
 >>Entrenador Principal Preinfantil femenino Club Baloncesto Oncineda
->>Entrenador Principal Senior Masculino 2ªNacional Club Baloncesto Oncineda
->>Entrenador Ayudante Selección Cadete Masculina Navarra
+>>>Entrenador Principal Senior Masculino 2ªNacional Club Baloncesto Oncineda
+>>>Entrenador Ayudante Selección Cadete Masculina Navarra
 
 >Temporada 2019-2020:
 >Entrenador Principal Selección Cadete Masculina Navarra
 >>Entrenador Ayudante Infantil Rendimiento Araski
->>Participación en la MiniCopa de la Reina como especialista de rendimiento 
+>>>Participación en la MiniCopa de la Reina como especialista de rendimiento 
 
 >Temporada 2020-2021:
 >>Entrenador Principal Selección Cadete Masculina Navarra
