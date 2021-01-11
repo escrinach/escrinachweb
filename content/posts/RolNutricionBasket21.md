@@ -56,7 +56,7 @@ __CONTACTO__
 
 Ignacio Escribano Ott
 
-Navarra, España
+Estella, Navarra, España
 
 ignacio.escribano.ott@gmail.com
 
