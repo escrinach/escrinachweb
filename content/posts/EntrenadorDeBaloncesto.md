@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 date: "2021-01-10"
 tags:
@@ -96,4 +95,4 @@ EXPERIENCIA DEPORTIVA:
 - Temporada 2020-2021 
     - Entrenador Principal Selección Cadete Masculina Navarra
 
->>>>>>> 08040aa76ddd5286898c7211e9a3c9dae4097fa5
+
