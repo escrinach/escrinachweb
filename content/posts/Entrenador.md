@@ -20,7 +20,7 @@ Tanto en mis sesiones de entrenamiento colectivo como en la dirección de partid
 
 En mis sesiones de tecnificación en grupos reducidos, me gusta innovar y ofrecer a mis jugadores retos que encuentren divertidos y diferentes a lo que suelen hacer en sus sesiones de entrenamiento. En estas, diseño tareas que estimulen el desarrollo de sus capacidades atencionales de manera que tengan que ejecutar una repuesta motora (técnica individual) discriminando diferentes estímulos ("toma de decisiones"). Para ello, utilizo diferentes materiales de mayor o menor desarrollo tecnológico, adaptando esta metodología al objetivo que pretendo trabajar. Cuando la autorización para hacer uso del vídeo es favorable, por parte del responsable del menor, o del propio jugador si es mayor de edad, integro esta herramienta como parte del feedback, integrado en los informes que les entrego. Además, con el material registrado, preparo un vídeo resumen con las tareas realizadas, para que ambas partes podamos tener un recuerdo del entrenamiento realizado, creando y fortaleciendo el  vínculo entre personas. 
 
-![PabloLuces](https://twitter.com/i/status/1288432908680691712)
+[Enlace a video](https://twitter.com/i/status/1288432908680691712)
 
 Además, la inclusión de ejercicios de [prevención de lesiones](https://drive.google.com/file/d/1PJH-pWmHotvQrIyzEIuWjbiSzqauZzy7/view?usp=sharing) es uno de los aspectos que más importancia tienen en mis sesiones, ya que la seguridad de las personas a mi cargo, es uno de mis pilares.
 
