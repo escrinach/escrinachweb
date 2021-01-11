@@ -41,12 +41,12 @@ EXPERIENCIA DEPORTIVA:
 >Temporada 2018-2019:
 >>Entrenador Principal Preinfantil femenino Club Baloncesto Oncineda
 >>>Entrenador Principal Senior Masculino 2ªNacional Club Baloncesto Oncineda
->>>Entrenador Ayudante Selección Cadete Masculina Navarra
+>>>>Entrenador Ayudante Selección Cadete Masculina Navarra
 
 >Temporada 2019-2020:
->Entrenador Principal Selección Cadete Masculina Navarra
->>Entrenador Ayudante Infantil Rendimiento Araski
->>>Participación en la MiniCopa de la Reina como especialista de rendimiento 
+>>Entrenador Principal Selección Cadete Masculina Navarra
+>>>Entrenador Ayudante Infantil Rendimiento Araski
+>>>>Participación en la MiniCopa de la Reina como especialista de rendimiento 
 
 >Temporada 2020-2021:
 >>Entrenador Principal Selección Cadete Masculina Navarra
