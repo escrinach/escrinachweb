@@ -6,7 +6,7 @@ tags:
 title: Entrenador de Baloncesto 
 ---
 
-En el ámbito del baloncesto, todo el mundo me conoce como Nacho. Soy Entrenador Superior de Baloncesto (FEB, CES2017) y actualmente curso el la homologación para obtener el título de Técnico de Grado Medio en Baloncesto.
+En el ámbito del baloncesto, todo el mundo me conoce como Nacho. Soy Entrenador Superior de Baloncesto (FEB, CES2017) y actualmente curso la homologación para obtener el título de Técnico de Grado Medio en Baloncesto.
 
 Mi desarrollo académico y profesional, me ha formado en la necesidad de registrar y evaluar la información obtenida en mis entrenamientos y partidos, en cualquiera de las categorías que he entreado. En mi metodología, este proceso es fundamental tanto para la mejora continua en la formación de mis jugadores y jugadoras, así como en el rendimiento de mis equipos. Del mismo modo, analizar estos procesos me ayuda en mi mejora y aprendizaje constante. Aprender de manera básica a programar, me ha permitido desarrollar mis propias herramientas de registro y análisis en excel, que junto a las diferentes recursos tecnológicos que están a nuestra disposición, me ayudan a optimizar y profundizar en esta tarea, aunque no disponga de la tecnología que se utilia en ámbitos profesionales. 
 
