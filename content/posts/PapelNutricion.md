@@ -1,6 +1,6 @@
 ---
 date: "2021"
-title: Papel de la nutrición en el baloncesto 
+title: Papel de la Nutrición en el Baloncesto 
 ---
 
 El baloncesto es uno de los deportes más populares y practicados en todo el mundo, caracterizado por la espectacularidad e intensidad de sus movimientos. Además, durante la última década, ha experimentado una significativa evolución tanto en el juego como en su profesionalización. Este hecho se hace visible, entre otros, en el calendario de competición, que concentra cada vez un mayor número de partidos y con mayores distancias en los desplazamientos. Esto condiciona la recuperación y el rendimiento físico de jugadores y jugadoras, por lo que conseguir una rápida recuperación, se ha convertido en todo un reto para los equipos. En este contexto, la alimentación se presenta como una variable fundamental, siendo parte esencial de cualquier programa de entrenamiento y competición. Diferentes organismos como el [Comité Olímpico Internacional](https://cutt.ly/TjcrGIG) o el [Colegio Americano de Medicina del Deporte](https://cutt.ly/Ajcr1dI) entre otros, coinciden al afirmar que una alimentación óptima ayudará a mejorar el rendimiento físico y a una recuperación más rápida tras una sesión de entrenamiento o de un partido.
