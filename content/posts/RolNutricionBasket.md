@@ -5,11 +5,11 @@ title: Papel de la Nutrición en el Baloncesto
 
 El baloncesto es uno de los deportes más populares y practicados en todo el mundo, caracterizado por la espectacularidad e intensidad de sus movimientos. Además, durante la última década, ha experimentado una significativa evolución tanto en el juego como en su profesionalización. Este hecho se hace visible, entre otros, en el calendario de competición, que concentra cada vez un mayor número de partidos y con mayores distancias en los desplazamientos. Esto condiciona la recuperación y el rendimiento físico de jugadores y jugadoras, por lo que conseguir una rápida recuperación, se ha convertido en todo un reto para los equipos. En este contexto, la alimentación se presenta como una variable fundamental, siendo parte esencial de cualquier programa de entrenamiento y competición. Diferentes organismos como el [Comité Olímpico Internacional](https://cutt.ly/TjcrGIG) o el [Colegio Americano de Medicina del Deporte](https://cutt.ly/Ajcr1dI) entre otros, coinciden al afirmar que una alimentación óptima ayudará a mejorar el rendimiento físico y a una recuperación más rápida tras una sesión de entrenamiento o de un partido.
 
-![Temporada 19-20](https://cutt.ly/YjctlNh){width=40%}
+![Temporada 19-20](https://cutt.ly/YjctlNh)
 
 Desde el punto de vista del deporte como agente formativo, es uno de los más demandados y que cuenta con más licencias federativas. De esta manera, el impacto que el baloncesto puede llegar a ejercer, en la formación de una gran parte de la población en edad formativa es muy elevado. Se presenta entonces, un escenario idóneo para adquirir hábitos de alimentación adecuados que puedan mantenrse en la etapa adulta.
 
-![CharlaFNB](https://cutt.ly/mjcthn4){width=40%}
+![CharlaFNB](https://cutt.ly/mjcthn4)
 
 
 En definitiva, la alimentación juega un papel determinante en la salud y el rendimiento de las personas que practican baloncesto. Para poder llevar a la práctica, un papel tan complejo, podrían establecerse los siguientes objetivos operativos, aplicables para cualquier persona y equipo: 
