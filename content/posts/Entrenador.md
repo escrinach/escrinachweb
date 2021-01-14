@@ -32,12 +32,15 @@ __EXPERIENCIA DEPORTIVA__:
 >Temporada 2016-2017:
 -Entrenador Principal Cadete Femenino Araski
 
+
 -Entrenador Ayudante Junior Femenino Araski
+
 
 -Tecnificador Cadete Masculino Navarra
 
 >Temporada 2017-2018:
 -Entrenador Principal Senior Masculino 1ª Nacional Valle de Egües
+
 
 -Entrenador Ayudante Selección Cadete Masculina Navarra
 
@@ -46,12 +49,16 @@ __EXPERIENCIA DEPORTIVA__:
 
 -Entrenador Principal Senior Masculino 2ªNacional Club Baloncesto Oncineda
 
+
 -Entrenador Ayudante Selección Cadete Masculina Navarra
+
 
 >Temporada 2019-2020:
 -Entrenador Principal [Selección Cadete Masculina Navarra](https://aeeb.es/index.php?option=com_content&view=article&id=2247:metodologia-lineas-de-trabajo-y-diseno-de-los-entrenamientos-de-la-fnb-con-la-seleccion-cadete-masculina&catid=53). [Nota en prensa](https://www.navarratelevision.es/noticia/Z330AD1FE-E2C7-4AFE-3F36230ABC90E16F/202001/navarra-da-la-talla-en-los-campeonatos-autonomicos-de-basket).
 
+
 -Entrenador Infantil Rendimiento Araski 07
+
 
 -Especialista de Rendimiento con Infantil Araski 06 en la [MiniCopa de la Reina](http://www.dxtfem.com/alava/deportes/baloncesto/araski-se-prepara-la-mini-copa-salamanca/).
 
