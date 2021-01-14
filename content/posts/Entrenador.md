@@ -44,7 +44,7 @@ __EXPERIENCIA DEPORTIVA__:
 -Entrenador Ayudante Selección Cadete Masculina Navarra
 
 >Temporada 2019-2020:
--Entrenador Principal [Selección Cadete Masculina Navarra] (https://aeeb.es/index.php?option=com_content&view=article&id=2247:metodologia-lineas-de-trabajo-y-diseno-de-los-entrenamientos-de-la-fnb-con-la-seleccion-cadete-masculina&catid=53). [Nota en prensa] (https://www.navarratelevision.es/noticia/Z330AD1FE-E2C7-4AFE-3F36230ABC90E16F/202001/navarra-da-la-talla-en-los-campeonatos-autonomicos-de-basket).
+-Entrenador Principal [Selección Cadete Masculina Navarra](https://aeeb.es/index.php?option=com_content&view=article&id=2247:metodologia-lineas-de-trabajo-y-diseno-de-los-entrenamientos-de-la-fnb-con-la-seleccion-cadete-masculina&catid=53). [Nota en prensa](https://www.navarratelevision.es/noticia/Z330AD1FE-E2C7-4AFE-3F36230ABC90E16F/202001/navarra-da-la-talla-en-los-campeonatos-autonomicos-de-basket).
 -Entrenador Infantil Rendimiento Araski
 -Participación en la [MiniCopa de la Reina](http://www.dxtfem.com/alava/deportes/baloncesto/araski-se-prepara-la-mini-copa-salamanca/) como especialista de rendimiento.
 
