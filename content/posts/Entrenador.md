@@ -28,46 +28,46 @@ __EXPERIENCIA DEPORTIVA__:
 
 __Temporadas 2011-2012 a 2015-2016__:
 
-Entrenador generación 01-02 Club Baloncesto Oncineda
+>Entrenador generación 01-02 Club Baloncesto Oncineda
 
 __Temporada 2016-2017__:
 
-Entrenador Principal Cadete Femenino Araski
+>Entrenador Principal Cadete Femenino Araski
 
 
-Entrenador Ayudante Junior Femenino Araski
+>Entrenador Ayudante Junior Femenino Araski
 
 
-Tecnificador Cadete Masculino Navarra
+>Tecnificador Cadete Masculino Navarra
 
 __Temporada 2017-2018__:
 
-Entrenador Principal Senior Masculino 1ª Nacional Valle de Egües
+>Entrenador Principal Senior Masculino 1ª Nacional Valle de Egües
 
 
-Entrenador Ayudante Selección Cadete Masculina Navarra
+>Entrenador Ayudante Selección Cadete Masculina Navarra
 
 __Temporada 2018-2019__:
 
-Entrenador Principal Preinfantil femenino Club Baloncesto Oncineda
+>Entrenador Principal Preinfantil femenino Club Baloncesto Oncineda
 
 
-Entrenador Principal Senior Masculino 2ªNacional Club Baloncesto Oncineda
+>Entrenador Principal Senior Masculino 2ªNacional Club Baloncesto Oncineda
 
 
-Entrenador Ayudante Selección Cadete Masculina Navarra
+>Entrenador Ayudante Selección Cadete Masculina Navarra
 
 
 __Temporada 2019-2020__:
 
-Entrenador Principal [Selección Cadete Masculina Navarra](https://aeeb.es/index.php?option=com_content&view=article&id=2247:metodologia-lineas-de-trabajo-y-diseno-de-los-entrenamientos-de-la-fnb-con-la-seleccion-cadete-masculina&catid=53). [Nota en prensa](https://www.navarratelevision.es/noticia/Z330AD1FE-E2C7-4AFE-3F36230ABC90E16F/202001/navarra-da-la-talla-en-los-campeonatos-autonomicos-de-basket).
+>Entrenador Principal [Selección Cadete Masculina Navarra](https://aeeb.es/index.php?option=com_content&view=article&id=2247:metodologia-lineas-de-trabajo-y-diseno-de-los-entrenamientos-de-la-fnb-con-la-seleccion-cadete-masculina&catid=53). [Nota en prensa](https://www.navarratelevision.es/noticia/Z330AD1FE-E2C7-4AFE-3F36230ABC90E16F/202001/navarra-da-la-talla-en-los-campeonatos-autonomicos-de-basket).
 
 
-Entrenador Infantil Rendimiento Araski 07
+>Entrenador Infantil Rendimiento Araski 07
 
 
-Especialista de Rendimiento con Infantil Araski 06 en la [MiniCopa de la Reina](http://www.dxtfem.com/alava/deportes/baloncesto/araski-se-prepara-la-mini-copa-salamanca/).
+>Especialista de Rendimiento con Infantil Araski 06 en la [MiniCopa de la Reina](http://www.dxtfem.com/alava/deportes/baloncesto/araski-se-prepara-la-mini-copa-salamanca/).
 
 __Temporada 2020-2021__:
 
-Entrenador Principal Selección Cadete Masculina Navarra
+>Entrenador Principal Selección Cadete Masculina Navarra
